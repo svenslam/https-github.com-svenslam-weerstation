@@ -1,0 +1,6 @@
+{
+  "name": "PiDHT20 IoT Monitor",
+  "description": "Metingsdashboard en aansluitgids voor Raspberry Pi 3B met de DHT20 I2C temperatuur- en vochtigheidssensor via WiFi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
